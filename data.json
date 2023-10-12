@@ -1,0 +1,29 @@
+{
+    "Details" : [
+        {
+            "name":"sunil kalgi",
+            "email":"srkalgi567@gmail.com",
+            "age" :28,
+            "gender":"male"
+        },
+        {
+            "name":"sunil guttedar",
+            "email":"sunil@gmail.com",
+            "age" :29,
+            "gender":"male"
+        },
+        {
+            "name":"likitho",
+            "email":"likitho@gmail.com",
+            "age" :26,
+            "gender":"male"
+        },
+        {
+            "name":"appu",
+            "email":"appu@gmail.com",
+            "age" :28,
+            "gender":"male"
+        }
+    ],
+    "AboutUs":"Welcome to our website. We are a dedicated team of professionals committed to providing the best services and products for our customers.Our mission is to meet your needs and exceed your expectations."
+}
